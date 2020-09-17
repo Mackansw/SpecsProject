@@ -5,6 +5,8 @@ import java.awt.*;
 
 public class GuiSpecs {
 
+    private Specs specs;
+
     private JFrame window;
     private JPanel basePanel;
     private JTextArea output;
@@ -12,8 +14,6 @@ public class GuiSpecs {
 
     private Color foreground = Color.white;
     private Color background = Color.darkGray;
-
-    private Specs specs;
 
     private int fontSize = 15;
 

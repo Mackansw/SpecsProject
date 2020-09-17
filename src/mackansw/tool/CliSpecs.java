@@ -8,7 +8,7 @@ public class CliSpecs {
 
     private Specs specs;
 
-    private String specsOutput = "";
+    private String specsOutput = "\n";
 
     /**
      * Constructor with Specs parameter

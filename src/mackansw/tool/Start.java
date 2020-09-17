@@ -2,10 +2,10 @@ package mackansw.tool;
 
 import oshi.SystemInfo;
 
-public class Main {
+public class Start {
 
     /**
-     * Main method
+     * Start method
      * @param args the command line arguments
      */
     public static void main(String args[]) {
